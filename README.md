@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on open-Source Projects
 - 📫 How to reach me ... randinodavide@gmail.com
 
-[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/) [![Yarn](https://github.com/MarioTerron/logo-images/blob/master/logos/yarn.png)](https://yarnpkg.com)
+	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white 	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
