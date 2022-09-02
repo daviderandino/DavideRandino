@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on open-Source Projects
 - 📫 How to reach me ... randinodavide@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviderandino)](https://github.com/anuraghazra/github-readme-stats)
