@@ -3,6 +3,3 @@
 - 🌱 I’m currently learning Computer Engineering at the Politecnico Of Torino
 - 💞️ I’m looking to collaborate on open-Source Projects
 - 📫 How to reach me ... randinodavide@gmail.com
-
-<img src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-	 	
