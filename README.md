@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on open-Source Projects
 - 📫 How to reach me ... randinodavide@gmail.com
 
-	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white 	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+<img src="[{BadgeURLHere}](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)">
+	 	
