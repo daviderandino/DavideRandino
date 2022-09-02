@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daviderand
+- 👋 Hi, I’m @daviderandino
 - 👀 I’m interested in science, technology and programming
 - 🌱 I’m currently learning Computer Engineering at the Politecnico Of Torino
 - 💞️ I’m looking to collaborate on open-Source Projects
