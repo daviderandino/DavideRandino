@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daviderandino
+- 👋 Hi, I’m @daviderandino (19 y.o)
 - 👀 I’m interested in science, technology and programming
 - 🌱 I’m currently studying Computer Engineering at Politecnico Of Torino
 
