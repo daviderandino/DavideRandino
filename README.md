@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daviderandino (22 y.o)
-- 👀🌱 I’m a MSc student of Computer Engineering at Politecnico di Torino
+- 👀🌱 I’m a MSc student in Computer Engineering at Politecnico di Torino
 
 **Coding Languages**
 
